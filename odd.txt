@@ -9,5 +9,9 @@ if(k%2==1)
 {
 printf("odd");
 }
+else
+{
+print("even")
+}
 getch();
 }
