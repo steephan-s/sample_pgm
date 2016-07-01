@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int k, l;
+clrscr();
+scanf("%d",&k);
+if(k%2==1)
+{
+printf("odd");
+}
+getch();
+}
